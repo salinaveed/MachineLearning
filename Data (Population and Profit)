@@ -1,4 +1,4 @@
-The data below shows the population, profit of a food truck company
+%The data below shows the population, profit of a food truck company
 
 
 6.1101,17.592
@@ -99,7 +99,7 @@ The data below shows the population, profit of a food truck company
 13.394,9.0551
 5.4369,0.61705
 
-x = Population
-y = Profit
+%x = Population
+%y = Profit
 
-x,y
+%x,y
